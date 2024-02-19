@@ -154,6 +154,6 @@ Kullanılması gereken teknikler:
 - Import 3rd Party Library
 - Dosyaya Yazma
 - Dosyadan Okuma
-=======
+- 
 Patika.dev hesabım -> [click](https://app.patika.dev/@yazilimyazici) !
 

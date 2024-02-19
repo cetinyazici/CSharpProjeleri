@@ -156,4 +156,4 @@ Kullanılması gereken teknikler:
 - Dosyadan Okuma
 =======
 Patika.dev hesabım -> [click](https://app.patika.dev/@yazilimyazici) !
->>>>>>> 5fe3aab33cf14c9fa4174f632231af4e32f29d36
+

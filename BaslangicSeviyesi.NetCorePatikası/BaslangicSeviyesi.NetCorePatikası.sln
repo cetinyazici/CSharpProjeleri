@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UcgenCizme", "UcgenCizme\Uc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaireCizme", "DaireCizme\DaireCizme.csproj", "{C92BCF48-76F7-4E1D-BF34-D321A7311326}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma", "Algoritma\Algoritma.csproj", "{8E0D210E-729F-4744-818E-8F775C032E0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritma", "Algoritma\Algoritma.csproj", "{8E0D210E-729F-4744-818E-8F775C032E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarakterTerstenYazdirma", "KarakterTerstenYazdirma\KarakterTerstenYazdirma.csproj", "{59BBF30B-32C5-4003-A97C-8EF0C3F5ED4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{8E0D210E-729F-4744-818E-8F775C032E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E0D210E-729F-4744-818E-8F775C032E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E0D210E-729F-4744-818E-8F775C032E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59BBF30B-32C5-4003-A97C-8EF0C3F5ED4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BBF30B-32C5-4003-A97C-8EF0C3F5ED4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BBF30B-32C5-4003-A97C-8EF0C3F5ED4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BBF30B-32C5-4003-A97C-8EF0C3F5ED4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
